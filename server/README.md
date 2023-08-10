@@ -11,6 +11,7 @@ The following guides illustrate how to use some features concretely:
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+* [Bilding REST services with Springu](https://spring.io/guides/tutorials/rest/)
 
 ### Getting started
 #### To start Redis Stack server using the redis-stack image, run the following command in your terminal:
